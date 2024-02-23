@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:gorouter/details_screen.dart';
+import 'package:gorouter/screens/details_screen.dart';
 import 'package:gorouter/screens/home_screen.dart';
 
 class AppRouter {
