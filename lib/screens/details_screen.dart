@@ -8,7 +8,7 @@ class DetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Details Screen')),
+      appBar: AppBar(title: const Text('Details Screensss')),
       body: Center(
         child: ElevatedButton(
           onPressed: () => context.go(AppRouter.homeScreenPath),
